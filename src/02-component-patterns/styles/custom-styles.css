@@ -19,3 +19,9 @@
     color: white;
     border-color:azure;
 }
+
+.shopping-cart{
+    position: fix;
+    top: 0px;
+    right: 10px;
+}
